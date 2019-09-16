@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Michael Hoefer
+title                    : "Michael Hoefer"
 title_separator          : "-"
 name                     : &name "Michael Hoefer"
 description              : &description "CS PhD Student at CU Boulder"

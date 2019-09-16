@@ -4,8 +4,8 @@ main:
     url: /publications/
         
   - title: "Blog"
-    url: neuronforest.com
+    url: https://www.neuronforest.com
     
   - title: "CV"
-    url: /cv/
+    url: /files/HoeferCV.pdf
     

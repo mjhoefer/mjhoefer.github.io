@@ -15,7 +15,7 @@ My name is Michael, I'm a computer science PhD student at CU Boulder, advised by
 
 News
 ======
-8/26/2019 - I began my PhD program at The University of Colorado Boulder
+8/26/2019 - I began a PhD program at The University of Colorado Boulder
 
 
 

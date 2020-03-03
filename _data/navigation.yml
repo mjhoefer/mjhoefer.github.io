@@ -2,10 +2,12 @@
 main:
   - title: "Publications"
     url: /publications/
-        
+
   - title: "Blog"
     url: https://www.neuronforest.com
-    
+
   - title: "CV"
     url: /files/HoeferCV.pdf
-    
+
+  - title: "Need Nets Demo"
+    url: /files/index.html

@@ -21,6 +21,7 @@ body {
   -ms-flex-wrap: wrap; /* IE10 */
   flex-wrap: wrap;
   padding: 0 4px;
+  height: 100%;
 }
 
 /* Create four equal columns that sits next to each other */
@@ -37,15 +38,6 @@ body {
   vertical-align: middle;
   width: 100%;
   height: 100%;
-}
-
-/* Responsive layout - makes a two column-layout instead of four columns */
-@media screen and (max-width: 800px) {
-  .column {
-    -ms-flex: 50%;
-    flex: 50%;
-    max-width: 50%;
-  }
 }
 
 /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
@@ -68,12 +60,12 @@ body {
 <!-- Photo Grid -->
 <div class="row">
   <div class="column">
-    <button id=bi_button>Click me for a new question.</button>
+    <button id=bi_button style="font-size:3vw">Click me for a new question.</button>
   </div>
 </div>
 <div class="row">
   <div class="column">
-    <p id=bi_content>This part will occupy 12 columns on a small screen, 8 on a medium screen, and 9 on a large screen.</p>
+    <p id=bi_content style="font-size:3vw">This part will occupy 12 columns on a small screen, 8 on a medium screen, and 9 on a large screen.</p>
   </div>
 </div>
 <script src="bi.js"></script>

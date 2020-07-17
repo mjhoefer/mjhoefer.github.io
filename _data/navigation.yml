@@ -1,7 +1,5 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
 
   - title: "Blog"
     url: https://www.neuronforest.com
@@ -9,3 +7,5 @@ main:
   - title: "CV"
     url: /files/HoeferCV.pdf
 
+  - title: "Current Project"
+    url: https://www.notion.so/Networks-for-Understanding-Human-Need-73058f5a7f2c44b781f817ee8e061c24

@@ -15,9 +15,9 @@ My name is Michael, I'm a computer science PhD student at CU Boulder. I have a b
 
 News
 ======
-7/19/2020 - Presented "Networks for Understanding Human Need" poster @ IC2S2 2020 (Virtual)
-5/6/2020  - Finished my first year!
-8/26/2019 - I began a PhD program at The University of Colorado Boulder
+7/19/2020 - Presented "Networks for Understanding Human Need" @ IC2S2\
+5/6/2020  - Finished my first year!\
+8/26/2019 - I began a PhD program at The University of Colorado Boulder\
 
 
 

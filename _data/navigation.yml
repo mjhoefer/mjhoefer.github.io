@@ -1,8 +1,8 @@
 # main links links
 main:
 
-  #- title: "Blog - Coming Soon"
-  #  url: https://www.neuronforest.com
+  - title: "Blog"
+    url: https://www.neuronforest.com
 
   - title: "CV"
     url: /files/HoeferCV.pdf

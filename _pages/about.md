@@ -16,7 +16,7 @@ My name is Michael, I'm a [computer science](https://www.colorado.edu/cs/) and [
 News
 ======
 
-## 2021
+### 2021
 
 - 7/23 - Finished teaching my first course, CSCI 1300: Introduction to Programming, a hybrid online/in-person course covering the basics of computational thinking and C++.
 - 7/7 - Attended [Networks 2021](https://networks2021.net/) and:
@@ -32,12 +32,12 @@ News
 - 1/7 - Honored to be awarded a Beverly Sears Graduate Student Grant for my project *Toward Personal Dream Informatics: Exploring the Self-Tracking of Dreams*
 
 
-## 2020   
+### 2020   
 - 9/20 - My hackathon project, [Empowering Interpersonal Informatics](https://devpost.com/software/empowering-interpersonal-informatics) won the Social Impact Track at CU's [Hack4Impact](https://hack-for-impact-hackcu.devpost.com/) Hackathon.
 - 7/19 - Presented [Networks for Understanding Human Need](https://www.notion.so/Networks-for-Understanding-Human-Need-73058f5a7f2c44b781f817ee8e061c24) @ [IC2S2](http://2020.ic2s2.org/6th-international-conference-computational-social-science)
 - 5/6 &nbsp; - Finished my first year!
 
-#### 2021
+### 2019
 - 8/26 - I began a PhD program at The University of Colorado Boulder
 
 

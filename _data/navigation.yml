@@ -2,7 +2,7 @@
 main:
 
   - title: "Projects"
-    url: _pages/projects.md
+    url: /projects/
     
   - title: "Blog"
     url: https://www.neuronforest.com

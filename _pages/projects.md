@@ -4,8 +4,6 @@ layout: archive
 permalink: /projects/
 ---
 
-Projects
-======
 This page contains both completed and on-going projects. If you would like to contribute to any project, please get in touch over email.
 
 

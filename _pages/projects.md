@@ -47,11 +47,11 @@ Personal Dream Informatics
 
 I conducted a large scale (N=283) mixed-methods survey with a targeted audience of lucid dreamers and dream trackers, to develop a better understanding of how dreams influence ourselves, and the technology that mediates it (largely dream journals and social dreaming practices).
 
-<img src="/files/sys_model_v2_arrows.png" alt="Dream Information Systems Conceptual Model" width="200"/>
+<img src="/files/sys_model_v2_arrows.png" alt="Dream Information Systems Conceptual Model" width="400"/>
 
 Out of this study came the idea for "self-information systems" as an appropriate scope of analysis for individual level behavior change. I was excited to use a system dynamics style model to summarize the findings. 
 
-<img src="/files/vensim_v3.png" alt="Dream Informatics System Dynamics" width="200"/>
+<img src="/files/vensim_v3.png" alt="Dream Informatics System Dynamics" width="600"/>
 
 Currently under review.
 
@@ -59,7 +59,7 @@ Social Interfaces for Self-Tracking in Bipolar Disorder
 ======
 I interviewed 17 clinicians to get their feedback on a variety of novel social interfaces for supporting self-tracking in the context of managing bipolar disorder. 
 
-<img src="/files/bd_network.png" alt="Network representation of users and features" width="200"/>
+<img src="/files/bd_network.png" alt="Network representation of users and features" width="500"/>
 
 Interesting findings:
 

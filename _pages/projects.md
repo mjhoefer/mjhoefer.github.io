@@ -7,10 +7,12 @@ permalink: /projects/
 This page contains both completed and on-going projects. If you would like to contribute to any project, please get in touch over email.
 
 
-Representing Individual Motivations for Economic Activity
+From Personal to Societal Informatics: Measuring Well-Being at Arbitrary Scales of Social Organization
 ======
 
-This project is all about answering the question "why do individuals engage in economic activity?" at arbitrary scales of social organization. I believe this is a missing link in our understanding of people and economies. The classical assumption of a utility maximizing rational consumer is flawed. I'm building a system that will help support reflection at various levels of social organization, starting at the individual and allowing for aggregation at any arbitrary scale. Hopefully this system will serve as a tool to guide the actions of our largest organizations - even if only for having a reliable way to know how the people are doing, in detail, directly from the people. 
+My dissertation work is exploring new social measurements for guiding both individual behavior change and public policy. Traditional economic measures like per-capita income and GDP have become de-coupled. More money is not necessarily making us more satisfied. Human centered measured like gross national happiness (GNH) and the human development index (HDI) seek to better represent the human experience, but struggle to represent individuals (and entire societies) as single numbers.
+
+My approach is to use a network representation of an individual to capture relationships between basic human needs, and the ways in which those needs are satisfied (satisfiers). A bipartite network, with shared need nodes, enables aggregation of networks representing individuals into multi-layer networks representing groups of people at arbitrary scales. 
 
 The methodological approaches in this project are:
 
@@ -20,12 +22,13 @@ The methodological approaches in this project are:
 - Structured reflection across developed theories of need/well-being/motivation to generate a new kind of datasource - structured representations of a life
 
 Publications and Presentations for this Project
-- Poster at IC2S2 2020 (Networks for Understanding Human Need)
-- Talk at Networks 2021 (The Individual as Network: Multilayer Intraindividual Ego Networks)
-- Lightning Talk (upcoming) at the viz4good workshop (Representing Systems of Need and Satisfaction)
+- [Working paper](michaelhoefer.com/files/Hoefer_Systems_of_Need.pdf) on visualizing systems of need and satisfaction
+- [Lightning Talk at the vis4good workshop](https://youtu.be/eo22Xg6MCmk?t=10286) (Representing Systems of Need and Satisfaction)
+- [Talk at Networks 2021](https://www.youtube.com/watch?v=ST3IXtL88OY) (The Individual as Network: Multilayer Intra-individual Ego Networks)
+- [Poster at IC2S2 2020](michaelhoefer.com/files/need_net_abstract.pdf) (Networks for Understanding Human Need)
 
 Current Status:
-- Prototype software is still available at resatisfy.us. This project is the focus of my prelim exam, so I'm concurrently writing the code for the survey tool alongside the research.
+- Prototype software is still available at [resatisfy.us](resatisfy.us). This project is the focus of my prelim exam, so I'm concurrently writing the code for the survey tool alongside the research.
 - Seeking developer volunteers (please contact me via email)
 
 
@@ -44,29 +47,38 @@ Personal Dream Informatics
 
 I conducted a large scale (N=283) mixed-methods survey with a targeted audience of lucid dreamers and dream trackers, to develop a better understanding of how dreams influence ourselves, and the technology that mediates it (largely dream journals and social dreaming practices).
 
-Out of this study came the idea for "self-information systems" as an appropriate scope of analysis for individual level behavior change. I was excited to use a system dynamics style model to summarize the findings. Currently under review.
+![Dream Information Systems Conceptual Model](/files/sys_model_v2_arrows.png)
 
-The Multiplicative Patient
+Out of this study came the idea for "self-information systems" as an appropriate scope of analysis for individual level behavior change. I was excited to use a system dynamics style model to summarize the findings. 
+
+![Dream Informatics System Dynamics](/files/vensim_v3.png)
+
+Currently under review.
+
+Social Interfaces for Self-Tracking in Bipolar Disorder
 ======
 I interviewed 17 clinicians to get their feedback on a variety of novel social interfaces for supporting self-tracking in the context of managing bipolar disorder. 
 
+![Network representation of users and tasks](/files/bd_network.png)
+
 Interesting findings:
 
-- Out of this project came the idea of designing different roles for different "parts" of the self
-- Social reactivity - when social perceptions affect data measurement (eg - if I record this fight with my brother, my mom will see it, so I'm not going to do that)
+- Out of this project came the idea of designing different roles for different "parts" of the self (intra-individual roles)
+- Social reactivity - when social perceptions affect data measurement (eg - if I record this fight with my brother, my mom will see it, so I'm not going to track accurately)
 - Suicide risk drives reluctance to integrate mental health data with clinician practices
 
-Published in DIS 2021
+**Published in DIS 2021** [The Multiplicative Patient and the Clinical Workflow: Clinician Perspectives on Social Interfaces for Self-Tracking and Managing Bipolar Disorder
+](https://dl.acm.org/doi/10.1145/3461778.3461995)
 
 Completed Projects
 ======
 
 
 
-- ### The Unequal Impact of Parenthood in Academia
+- ### [The Unequal Impact of Parenthood in Academia](https://www.science.org/doi/10.1126/sciadv.abd1996) (Science Advances)
 
-- ### Machine Learning for Automating Manufacturability and Supply Chain Analysis
+- ### [Machine Learning for Automating Manufacturability and Supply Chain Analysis](https://doi.org/10.1115/1.4038686) (ASME Journal of Mechanical Design)
 
-- ### ANA - Automated Manufacturability Analysis Software
+- ### [ANA - Automated Manufacturability Analysis Software](https://lib.dr.iastate.edu/cgi/viewcontent.cgi?article=1195) (IISE 2017)
 
 - ### Wind Turbine Blade Recycling Economic Decision Framework

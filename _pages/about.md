@@ -17,7 +17,17 @@ News
 ======
 
 ### 2021
+- Attending [CHI 2022](https://chi2022.acm.org/) in person -- email me if you're going and would like to meet up!
+  - Full paper: *Personal Dream Informatics: A Self-Information Systems Model of Dream Engagement*
+  - Short paper + poster (late breaking work): *Visualizing Uncertainty in Multi-Source Mental Health Data*
+  - Workshop paper for [Integrating Faith, Religion, and Spirituality in HCI](https://sites.google.com/view/faithchi): *Faith Informatics: Computing for Development Through Stages of Faith*
+  - Workshop paper for [Self-Determination Theory in HCI: Shaping a Research Agenda](http://www.positivecomputing.org/p/chi2022.html): *Interfacing with Representations of the Self and Needs*
 
+
+
+### 2021
+- 8/26 - Presented a poster, [A Network Visualization of Sustainable Consumption Corridors(https://ieeevis.b-cdn.net/vis_2021/posters/v-vis-posters-1041.pdf)] at [IEEE VIS 2021](http://ieeevis.org/year/2021/welcome). [[Extended Abstract](https://ieeevis.b-cdn.net/vis_2021/posters/v-vis-posters-1041-summary.pdf)]
+- 8/25 - Gave a lightning talk, *Representing Systems of Need and Satisfaction*  at the [Vis4Good](https://vis4good.github.io/) workshop at [IEEE VIS 2021](http://ieeevis.org/year/2021/welcome).
 - 7/23 - Finished teaching my first course, CSCI 1300: Introduction to Programming, a hybrid online/in-person course covering the basics of computational thinking and C++.
 - 7/7 - Attended [Networks 2021](https://networks2021.net/) and:
     - Gave a talk, [The Individual as Network: Multilayer Intra-Individual Ego Networks](https://www.youtube.com/watch?v=ST3IXtL88OY).

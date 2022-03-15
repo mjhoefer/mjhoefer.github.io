@@ -16,7 +16,7 @@ My name is Michael, I'm a [computer science](https://www.colorado.edu/cs/) and [
 News
 ======
 
-### 2021
+### 2022
 - Attending [CHI 2022](https://chi2022.acm.org/) in person -- email me if you're going and would like to meet up!
   - Full paper: *Personal Dream Informatics: A Self-Information Systems Model of Dream Engagement*
   - Short paper + poster (late breaking work): *Visualizing Uncertainty in Multi-Source Mental Health Data*

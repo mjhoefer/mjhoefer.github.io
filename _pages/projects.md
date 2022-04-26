@@ -28,8 +28,7 @@ Publications and Presentations for this Project
 - [Poster at IC2S2 2020](michaelhoefer.com/files/need_net_abstract.pdf) (Networks for Understanding Human Need)
 
 Current Status:
-- Prototype software is still available at [resatisfy.us](resatisfy.us). This project is the focus of my prelim exam, so I'm concurrently writing the code for the survey tool alongside the research.
-- Seeking developer volunteers (please contact me via email)
+- Preparing to launch a multi-modal structured reflection study, using both survey and think-aloud methodology. This will inform a software prototyping effort in Fall 2022. 
 
 
 Co-Tracking to Direct Attention in Interpersonal Perception
@@ -53,7 +52,7 @@ Out of this study came the idea for "self-information systems" as an appropriate
 
 <img src="/files/vensim_v3.png" alt="Dream Informatics System Dynamics" width="600"/>
 
-Currently under review.
+Presenting at CHI 2022.
 
 Social Interfaces for Self-Tracking in Bipolar Disorder
 ======

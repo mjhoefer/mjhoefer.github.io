@@ -11,7 +11,10 @@ redirect_from:
 
 Welcome
 ======
-My name is Michael, I'm a [computer science](https://www.colorado.edu/cs/) and [cognitive science](https://www.colorado.edu/ics/) PhD student at CU Boulder. I have a broad interest in complex systems, and in particular, social systems. My goal is to learn how to evolve societies such that they will be able to solve their most challenging problems, such as income inequality, environmental degradation, and war. I'm curently focused on human centered computing approaches to problem solving, and work in the [TMI Lab](https://tmilab.colorado.edu/) with a wonderful team led by [Professor Stephen Voida](https://stephen.voida.com/).
+My name is Michael, I study [computer science](https://www.colorado.edu/cs/) and [cognitive science](https://www.colorado.edu/ics/) at CU Boulder, and work in the [TMI lab](https://tmilab.colorado.edu/) advised by [Professor Stephen Voida](https://stephen.voida.com/). I have a broad interest in complex systems, and in particular, social systems. I'm currently exploring personal informatics as a high leverage point for evolving social systems from the ground up (individual change) and top down (social system diagnostics). My work is motivated by the environmental and mental health crises, which appear to be deeply related.
+
+I'm exploring this space broadly, with projects on dreaming, mental health, sustainable consumption corridors, and spirituality. Methodologically, I draw on the fields of human-computer interaction, data science, network science, and psychology.
+
 
 News
 ======
@@ -26,7 +29,7 @@ News
 
 
 ### 2021
-- 8/26 - Presented a poster, [A Network Visualization of Sustainable Consumption Corridors(https://ieeevis.b-cdn.net/vis_2021/posters/v-vis-posters-1041.pdf)] at [IEEE VIS 2021](http://ieeevis.org/year/2021/welcome). [[Extended Abstract](https://ieeevis.b-cdn.net/vis_2021/posters/v-vis-posters-1041-summary.pdf)]
+- 8/26 - Presented a poster, [A Network Visualization of Sustainable Consumption Corridors](https://ieeevis.b-cdn.net/vis_2021/posters/v-vis-posters-1041.pdf) at [IEEE VIS 2021](http://ieeevis.org/year/2021/welcome). [Extended Abstract](https://ieeevis.b-cdn.net/vis_2021/posters/v-vis-posters-1041-summary.pdf)
 - 8/25 - Gave a lightning talk, *Representing Systems of Need and Satisfaction*  at the [Vis4Good](https://vis4good.github.io/) workshop at [IEEE VIS 2021](http://ieeevis.org/year/2021/welcome).
 - 7/23 - Finished teaching my first course, CSCI 1300: Introduction to Programming, a hybrid online/in-person course covering the basics of computational thinking and C++.
 - 7/7 - Attended [Networks 2021](https://networks2021.net/) and:

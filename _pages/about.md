@@ -23,8 +23,8 @@ News
 - Attending [CHI 2022](https://chi2022.acm.org/) in person -- email me if you're going and would like to meet up!
   - Full paper: *Personal Dream Informatics: A Self-Information Systems Model of Dream Engagement*
   - Short paper + poster (late breaking work): *Visualizing Uncertainty in Multi-Source Mental Health Data*
-  - Workshop paper for [Integrating Faith, Religion, and Spirituality in HCI](https://sites.google.com/view/faithchi): *Faith Informatics: Computing for Development Through Stages of Faith*
-  - Workshop paper for [Self-Determination Theory in HCI: Shaping a Research Agenda](http://www.positivecomputing.org/p/chi2022.html): *Interfacing with Representations of the Self and Needs*
+  - [Workshop paper](https://drive.google.com/file/d/1p-KH_M24atdBF4340utqW3rOf4G_zem9/view?usp=sharing) for [Integrating Faith, Religion, and Spirituality in HCI](https://sites.google.com/view/faithchi): *Faith Informatics: Computing for Development Through Stages of Faith*
+  - [Workshop paper](https://michaelhoefer.com/files/sdt_chi_2022_hoefer_voida.pdf) for [Self-Determination Theory in HCI: Shaping a Research Agenda](http://www.positivecomputing.org/p/chi2022.html): *Interfacing with Representations of the Self and Needs*
 
 
 

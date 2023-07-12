@@ -10,7 +10,12 @@ redirect_from:
 
 DIS Demo
 ======
+Thank you for checking out the demo today. You can download the PDF of the demo worksheets here:
+- <a href="https://michaelhoefer.com/files/DIS2DEMO-needs.pdf" target="_blank">Needs reflection worksheet</a>
+- <a href="https://michaelhoefer.com/files/DIS2DEMO-self.pdf" target="_blank">Self-aspects reflection worksheet</a>
 
+- [Needs reflection worksheet](https://michaelhoefer.com/files/DISDEMO-needs.pdf)
+- [Self-aspects reflection worksheet](https://michaelhoefer.com/files/DISDEMO-self.pdf)
 
 Welcome
 ======
@@ -25,7 +30,7 @@ News
 ### 2023
 
 July
-- Published a paper [LINK](https://michaelhoefer.com/files/DIS2023.pdf) at [Designing Interactive Systems (DIS) 2023](https://dis.acm.org/2023/) 
+- Published a paper (<a href="https://michaelhoefer.com/files/DIS2023.pdf" target="_blank">LINK</a>) at [Designing Interactive Systems (DIS) 2023](https://dis.acm.org/2023/) 
 
 June
 - Attended the [Human Computer Interaction Consortium (HCIC)](https://hcic.org/) and briefly presented my work titled *Personal Informatics as a Multi-Scale Mirror: Aligning Lifestyles with Human Values*

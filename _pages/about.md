@@ -8,6 +8,9 @@ redirect_from:
   - /about.html
 ---
 
+DIS Demo
+======
+
 
 Welcome
 ======
@@ -18,6 +21,23 @@ I'm exploring this space broadly, with projects on dreaming, mental health, sust
 
 News
 ======
+
+### 2023
+
+July
+- Published a paper [LINK](https://michaelhoefer.com/files/DIS2023.pdf) at [Designing Interactive Systems (DIS) 2023](https://dis.acm.org/2023/) 
+
+June
+- Attended the [Human Computer Interaction Consortium (HCIC)](https://hcic.org/) and briefly presented my work titled *Personal Informatics as a Multi-Scale Mirror: Aligning Lifestyles with Human Values*
+
+May
+- Proposed my dissertation work about Value-Aligning Personal Informatics.
+
+April
+- Published a late-breaking work at CHI 2023, titled [*Tracking the Experience of Self in Everyday Life](https://michaelhoefer.com/files/CHI2023.pdf)
+
+January
+- Teaching CSCI 1300 again this spring.
 
 ### 2022
 August

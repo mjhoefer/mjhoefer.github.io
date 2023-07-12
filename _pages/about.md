@@ -10,9 +10,14 @@ redirect_from:
 
 DIS Demo
 ======
-Thank you for checking out the demo today. You can download the PDF of the demo worksheets here:
+Thank you for checking out the demo at DIS. You can download the PDF of the demo worksheets here:
 - <a href="https://michaelhoefer.com/files/DIS2DEMO-needs.pdf" target="_blank">Needs reflection worksheet</a>
 - <a href="https://michaelhoefer.com/files/DIS2DEMO-self.pdf" target="_blank">Self-aspects reflection worksheet</a>
+
+You can download the related papers here:
+- <a href="https://michaelhoefer.com/files/DIS2023.pdf" target="_blank">Paper about Reflection on Needs in Daily Life</a>
+- <a href="https://michaelhoefer.com/files/CHI2023.pdf" target="_blank">Paper about Reflection on Self-Aspects in Daily Life</a>
+
 
 - [Needs reflection worksheet](https://michaelhoefer.com/files/DISDEMO-needs.pdf)
 - [Self-aspects reflection worksheet](https://michaelhoefer.com/files/DISDEMO-self.pdf)

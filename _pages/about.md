@@ -18,10 +18,6 @@ You can download the related papers here:
 - <a href="https://michaelhoefer.com/files/DIS2023.pdf" target="_blank">Paper about Reflection on Needs in Daily Life</a>
 - <a href="https://michaelhoefer.com/files/CHI2023.pdf" target="_blank">Paper about Reflection on Self-Aspects in Daily Life</a>
 
-
-- [Needs reflection worksheet](https://michaelhoefer.com/files/DISDEMO-needs.pdf)
-- [Self-aspects reflection worksheet](https://michaelhoefer.com/files/DISDEMO-self.pdf)
-
 Welcome
 ======
 My name is Michael, I study [computer science](https://www.colorado.edu/cs/) and [cognitive science](https://www.colorado.edu/ics/) at CU Boulder, and work in the [TMI lab](https://tmilab.colorado.edu/) advised by [Professor Stephen Voida](https://stephen.voida.com/). I have a broad interest in complex systems, and in particular, social systems. I'm currently exploring personal informatics as a high leverage point for evolving social systems from the ground up (individual change) and top down (social system diagnostics). My work is motivated by the environmental and mental health crises, which appear to be deeply related.

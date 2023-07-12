@@ -15,7 +15,7 @@ Thank you for checking out the demo at DIS. You can download the PDF of the demo
 - <a href="https://michaelhoefer.com/files/DISDEMO-self.pdf" target="_blank">Self-aspects reflection worksheet</a>
 
 You can download the related papers here:
-- <a href="https://michaelhoefer.com/files/DIS2023.pdf" target="_blank">Paper about Reflection on Needs in Daily Life</a>
+- <a href="https://dl.acm.org/doi/10.1145/3563657.3596120" target="_blank">Paper about Reflection on Needs in Daily Life</a>
 - <a href="https://michaelhoefer.com/files/CHI2023.pdf" target="_blank">Paper about Reflection on Self-Aspects in Daily Life</a>
 
 Welcome
@@ -31,7 +31,7 @@ News
 ### 2023
 
 July
-- Published a paper (<a href="https://michaelhoefer.com/files/DIS2023.pdf" target="_blank">LINK</a>) at [Designing Interactive Systems (DIS) 2023](https://dis.acm.org/2023/) 
+- Published a paper (<a href="https://dl.acm.org/doi/10.1145/3563657.3596120" target="_blank">LINK</a>) at [Designing Interactive Systems (DIS) 2023](https://dis.acm.org/2023/) 
 
 June
 - Attended the [Human Computer Interaction Consortium (HCIC)](https://hcic.org/) and briefly presented my work titled *Personal Informatics as a Multi-Scale Mirror: Aligning Lifestyles with Human Values*

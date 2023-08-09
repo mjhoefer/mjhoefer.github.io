@@ -8,19 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-DIS Demo
-======
-Thank you for checking out the demo at DIS. You can download the PDF of the demo worksheets here:
-- <a href="https://michaelhoefer.com/files/DISDEMO-needs.pdf" target="_blank">Needs reflection worksheet</a>
-- <a href="https://michaelhoefer.com/files/DISDEMO-self.pdf" target="_blank">Self-aspects reflection worksheet</a>
 
-You can download the related papers here:
-- <a href="https://dl.acm.org/doi/10.1145/3563657.3596120" target="_blank">Paper about Reflection on Needs in Daily Life</a>
-- <a href="https://michaelhoefer.com/files/CHI2023.pdf" target="_blank">Paper about Reflection on Self-Aspects in Daily Life</a>
 
 Welcome
 ======
-My name is Michael, I study [computer science](https://www.colorado.edu/cs/) and [cognitive science](https://www.colorado.edu/ics/) at CU Boulder, and work in the [TMI lab](https://tmilab.colorado.edu/) advised by [Professor Stephen Voida](https://stephen.voida.com/). I have a broad interest in complex systems, and in particular, social systems. I'm currently exploring personal informatics as a high leverage point for evolving social systems from the ground up (individual change) and top down (social system diagnostics). My work is motivated by the environmental and mental health crises, which appear to be deeply related.
+My name is Michael, I study [computer science](https://www.colorado.edu/cs/) and [cognitive science](https://www.colorado.edu/ics/) at CU Boulder, and work in the [TMI lab](https://tmilab.colorado.edu/) advised by [Professor Stephen Voida](https://stephen.voida.com/). I have a broad interest in complex systems, and in particular, social systems. I'm currently exploring personal informatics as a leverage point for supporting organic change in social systems, focusing on individual personal development at scale through new patterns of directing attention. My work is motivated by the environmental and mental health crises, which may actually have similar underlying causes.
 
 I'm exploring this space broadly, with projects on dreaming, mental health, sustainable consumption corridors, and spirituality. Methodologically, I draw on the fields of human-computer interaction, data science, network science, and psychology.
 
@@ -37,7 +29,7 @@ June
 - Attended the [Human Computer Interaction Consortium (HCIC)](https://hcic.org/) and briefly presented my work titled *Personal Informatics as a Multi-Scale Mirror: Aligning Lifestyles with Human Values*
 
 May
-- Proposed my dissertation work about Value-Aligning Personal Informatics.
+- Proposed my dissertation work about Personal Informatics for Personal Development.
 
 April
 - Published a late-breaking work at CHI 2023, titled [*Tracking the Experience of Self in Everyday Life](https://michaelhoefer.com/files/CHI2023.pdf)
@@ -47,7 +39,7 @@ January
 
 ### 2022
 August
-- Excited to teach CSCI 1300 again this fall, this time with 350 students! 
+- Excited to teach CSCI 1300 again this fall, this time with 360 students! 
 
 July
 - Published an interactions article about [Faith Informatics](https://interactions.acm.org/blog/view/faith-informatics-supporting-development-of-systems-of-meaning-making-with)

@@ -6,13 +6,22 @@ permalink: /projects/
 
 This page contains both completed and on-going projects. If you would like to contribute to any project, please get in touch over email.
 
+DIS Demo
+======
+Thank you for checking out the demo at DIS 2023. You can download the PDF of the demo worksheets here:
+- <a href="https://michaelhoefer.com/files/DISDEMO-needs.pdf" target="_blank">Needs reflection worksheet</a>
+- <a href="https://michaelhoefer.com/files/DISDEMO-self.pdf" target="_blank">Self-aspects reflection worksheet</a>
+
+You can download the related papers here:
+- <a href="https://dl.acm.org/doi/10.1145/3563657.3596120" target="_blank">Paper about Reflection on Needs in Daily Life</a>
+- <a href="https://michaelhoefer.com/files/CHI2023.pdf" target="_blank">Paper about Reflection on Self-Aspects in Daily Life</a>
 
 From Personal to Societal Informatics: Measuring Well-Being at Arbitrary Scales of Social Organization
 ======
 
-My dissertation work is exploring new social measurements for guiding both individual behavior change and public policy. Traditional economic measures like per-capita income and GDP have become de-coupled. More money is not necessarily making us more satisfied. Human centered measured like gross national happiness (GNH) and the human development index (HDI) seek to better represent the human experience, but struggle to represent individuals (and entire societies) as single numbers.
+This project explores new social measurements for guiding both individual behavior change and public policy. Traditional economic measures like per-capita income are not perfectly coupled with actual human well-being. More money is not necessarily making us more satisfied (especially beyond some baseline level of income). Human centered measured like gross national happiness (GNH) and the human development index (HDI) seek to better represent the human experience, but struggle to represent individuals (and entire societies) as single numbers.
 
-My approach is to use a network representation of an individual to capture relationships between basic human needs, and the ways in which those needs are satisfied (satisfiers). A bipartite network, with shared need nodes, enables aggregation of networks representing individuals into multi-layer networks representing groups of people at arbitrary scales. 
+The approach of this project is to use a network representation of an individual to capture relationships between basic human needs, and the ways in which those needs are satisfied (satisfiers). A bipartite network, with shared need nodes, enables aggregation of networks representing individuals into multi-layer networks representing groups of people at arbitrary scales. 
 
 The methodological approaches in this project are:
 
@@ -22,13 +31,11 @@ The methodological approaches in this project are:
 - Structured reflection across developed theories of need/well-being/motivation to generate a new kind of datasource - structured representations of a life
 
 Publications and Presentations for this Project
-- [Working paper](michaelhoefer.com/files/Hoefer_Systems_of_Need.pdf) on visualizing systems of need and satisfaction
+- [DIS Conference Paper](https://dl.acm.org/doi/10.1145/3563657.3596120) reporting on results from a mixed-methods technology probe study
+- [Old Working paper](michaelhoefer.com/files/Hoefer_Systems_of_Need.pdf) on visualizing systems of need and satisfaction
 - [Lightning Talk at the vis4good workshop](https://youtu.be/eo22Xg6MCmk?t=10286) (Representing Systems of Need and Satisfaction)
 - [Talk at Networks 2021](https://www.youtube.com/watch?v=ST3IXtL88OY) (The Individual as Network: Multilayer Intra-individual Ego Networks)
 - [Poster at IC2S2 2020](michaelhoefer.com/files/need_net_abstract.pdf) (Networks for Understanding Human Need)
-
-Current Status:
-- Preparing to launch a multi-modal structured reflection study, using both survey and think-aloud methodology. This will inform a software prototyping effort in Fall 2022. 
 
 
 Co-Tracking to Direct Attention in Interpersonal Perception

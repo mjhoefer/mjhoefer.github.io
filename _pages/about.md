@@ -14,7 +14,7 @@ Welcome
 ======
 My name is Michael, I study [computer science](https://www.colorado.edu/cs/) and [cognitive science](https://www.colorado.edu/ics/) at CU Boulder, and work in the [TMI lab](https://tmilab.colorado.edu/) advised by [Professor Stephen Voida](https://stephen.voida.com/). I have a broad interest in complex systems, and in particular, social systems. I'm currently exploring personal informatics as a leverage point for supporting organic change in social systems, focusing on individual personal development at scale through new patterns of directing attention. My work is motivated by the environmental and mental health crises, which may actually have similar underlying causes.
 
-I'm exploring this space broadly, with projects on dreaming, mental health, sustainable consumption corridors, and spirituality. Methodologically, I draw on the fields of human-computer interaction, data science, network science, and psychology.
+I'm exploring this space broadly, with projects on dreaming, mental health, sustainable consumption corridors, and spirituality. Methodologically, I draw on the fields of human-computer interaction, data science, network science, psychology, and applied machine learning.
 
 
 News

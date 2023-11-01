@@ -41,12 +41,9 @@ Publications and Presentations for this Project
 Co-Tracking to Direct Attention in Interpersonal Perception
 =====
 
-Co-tracking is when you not only track your own mood, for example, but also your perception of someone else's mood. I'm currently developing a research plan to explore the use of co-tracking technology in close relationships. Will be recruiting participants within the next few months. 
+Co-tracking is when you not only track your own mood, for example, but also your perception of someone else's mood. We've developed a research plan to explore the use of co-tracking technology in close relationships, and will be recruiting participants within the next few months. 
 
 I learned how to make a serverless backend in AWS for this project. I learned scalable database design in DynamoDB, easy identity management with Cognito, and some basic javascript lambda functions called directly from the React App. This app could live on the AWS free tier indefinitely, and scale to many many users with a bit of money.
-
-I worked with a team of undergraduate and masters students on the app. They did a lot more of the front-end work. I did a bit of information visualization design, focusing on visualizing uncertainty from multiple data sources. 
-
 
 Personal Dream Informatics
 ======

@@ -4,8 +4,8 @@ main:
   - title: "Projects"
     url: /projects/
     
-  - title: "Blog"
-    url: https://www.neuronforest.com
+#  - title: "Blog"
+#    url: https://www.neuronforest.com
 
   - title: "CV"
     url: /files/HoeferCV.pdf

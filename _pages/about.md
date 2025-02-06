@@ -18,7 +18,7 @@ Previously, I finished a dual PhD in [computer science](https://www.colorado.edu
 
 My research focus is in human-computer interaction and human-AI interaction, and in particular, personal informatics. I design, build, deploy, and evaluate reflective personal informatics systems that support meaningful reflection, in domains ranging from health and mood, dreams, time-use, needs, values, and virtues. I am particularly interested in studying how technology can support (and not hinder) personal development. I am also a founding member of the SPIRITED Collective, a research collaborative working at the intersection of design, technology, and spirituality/religion. 
 
-In a former life I worked as an industrial engineer for Boeing and completed a masters in industrial engineering using AI for manufacturing and mechanical design. 
+In a former life I worked as an industrial engineer and data scientist for Boeing and completed a masters in industrial engineering using machine learning for manufacturing and mechanical design. 
 
 News
 ======

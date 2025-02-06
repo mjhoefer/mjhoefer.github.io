@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Michael Hoefer"
 title_separator          : "-"
 name                     : &name "Michael Hoefer"
-description              : &description "CS PhD Student at CU Boulder"
+description              : &description "Asst. Professor at St. Thomas"
 url                      : https://www.michaelhoefer.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Michael Hoefer"
   avatar           : "michaelCrop.jpg"
-  bio              : "CS PhD Student at CU Boulder"
-  location         : "Boulder, CO"
+  bio              : "Asst. Professor at St. Thomas"
+  location         : "Saint Paul, MN"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=zo7jMDEAAAAJ&hl=en"
-  email            : "michael (dot) hoefer (at) colorado (dot) edu"
+  email            : "michael (dot) hoefer (at) stthomas (dot) edu"
   researchgate     : "https://www.researchgate.net/profile/Michael_Hoefer4"
   uri              :
   bitbucket        :

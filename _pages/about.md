@@ -12,18 +12,44 @@ redirect_from:
 
 Welcome
 ======
-My name is Michael, I study [computer science](https://www.colorado.edu/cs/) and [cognitive science](https://www.colorado.edu/ics/) at CU Boulder, and work in the [TMI lab](https://tmilab.colorado.edu/) advised by [Professor Stephen Voida](https://stephen.voida.com/). I have a broad interest in complex systems, and in particular, social systems. I'm currently exploring personal informatics as a leverage point for supporting organic change in social systems, focusing on individual personal development at scale through new patterns of directing attention. My work is motivated by the environmental and mental health crises, which may actually have similar underlying causes.
+I am an Assistant Professor of [Computer and Information Sciences](https://cas.stthomas.edu/departments/areas-of-study/computer-information-sciences/) at [The University of St. Thomas](https://www.stthomas.edu/) in St. Paul, Minnesota. 
 
-I'm exploring this space broadly, with projects on dreaming, mental health, sustainable consumption corridors, and spirituality. Methodologically, I draw on the fields of human-computer interaction, data science, network science, psychology, and applied machine learning.
+Previously, I finished a dual PhD in [computer science](https://www.colorado.edu/cs/) and [cognitive science](https://www.colorado.edu/ics/) at CU Boulder, and worked in the [TMI lab](https://tmilab.colorado.edu/) advised by [Professor Stephen Voida](https://stephen.voida.com/). 
 
+My research focus is in human-computer interaction and human-AI interaction, and in particular, personal informatics. I design, build, deploy, and evaluate reflective personal informatics systems that support meaningful reflection, in domains ranging from health and mood, dreams, time-use, needs, values, and virtues. I am particularly interested in studying how technology can support (and not hinder) personal development. I am also a founding member of the SPIRITED Collective, a research collaborative working at the intersection of design, technology, and spirituality/religion. 
+
+In a former life I worked as an industrial engineer for Boeing and completed a masters in industrial engineering using AI for manufacturing and mechanical design. 
 
 News
 ======
 
+### 2025
+March
+- Will be traveling to Cagliari, Italy for [ACM Intelligent User Interfaces 2025](https://iui.acm.org/2025/)
+  - Presenting a full paper, "TellTime: An AI-Augmented Calendar with a Voice Interface for Collecting Time-Use Data"
+  - Participating in a workshop, Strengthening Engineering Psychology for Human-AI Interactions (STEP-HAI)
+
+### 2024
+December
+- Awarded an Innovation Fellowship for a project to improve intro computing course operations at St. Thomas
+
+November
+- Co-authored a panel at [ACM CSCW 2024](https://cscw.acm.org/2024/), "[(Un)designing AI for Mental and Spiritual Wellbeing](https://dl.acm.org/doi/10.1145/3678884.3689132)"
+
+August
+- Started a faculty role at the University of St. Thomas, in St. Paul, MN
+
+June
+- Defended my dissertation
+
+February
+- Co-authored a paper at [ACM Tangible Embedded and Embodied Interaction (TEI) 2024](https://tei.acm.org/2024/), which won an Honorable Mention award
+  - "[Mediating the Sacred: Configuring a Design Space for Religious and Spiritual Tangible Interactive Artifacts](https://dl.acm.org/doi/10.1145/3623509.3633353)"
+
 ### 2023
 
 July
-- Published a paper (<a href="https://dl.acm.org/doi/10.1145/3563657.3596120" target="_blank">LINK</a>) at [Designing Interactive Systems (DIS) 2023](https://dis.acm.org/2023/) 
+- Published a full paper (<a href="https://dl.acm.org/doi/10.1145/3563657.3596120" target="_blank">LINK</a>) at [Designing Interactive Systems (DIS) 2023](https://dis.acm.org/2023/) 
 
 June
 - Attended the [Human Computer Interaction Consortium (HCIC)](https://hcic.org/) and briefly presented my work titled *Personal Informatics as a Multi-Scale Mirror: Aligning Lifestyles with Human Values*
@@ -74,29 +100,3 @@ May
 - 9/20 - My hackathon project, [Empowering Interpersonal Informatics](https://devpost.com/software/empowering-interpersonal-informatics) won the Social Impact Track at CU's [Hack4Impact](https://hack-for-impact-hackcu.devpost.com/) Hackathon.
 - 7/19 - Presented [Networks for Understanding Human Need](https://www.notion.so/Networks-for-Understanding-Human-Need-73058f5a7f2c44b781f817ee8e061c24) @ [IC2S2](http://2020.ic2s2.org/6th-international-conference-computational-social-science)
 - 5/6 &nbsp; - Finished my first year!
-
-### 2019
-- 8/26 - I began a PhD program at The University of Colorado Boulder
-
-
-Research Interests
-======
-- Problem solving and measurement in social systems
-- Systematic assessment of human need and satisfaction
-- Personal, interpersonal, and community informatics
-- Technologies for supporting serious mental illness, especially bipolar disorder and PTSD
-- Dream science and technology for supporting dream engagement
-- Meta-science and the quantification of scientific contribution
-- Emotional technologies and processes for emotional education
-- Organizational culture and intra-organizational mobility
-
-As evidenced by the diversity of research interests above, I'm currently exploring a variety of approaches to problem solving in social systems. I'm most inspired by the ongoing work of [Jack Harich](https://thwink.org/sustain/work/bios/jack_harich/index.htm) at [thwink.org](https://thwink.org/) as well as that of [Joe Edelman](https://nxhx.org/) at [Human Systems](https://human-systems.org/). 
-
-
-Methodological Interests
-======
-- Natural Language Processing
-- Human Centered Computering / Human Computer Interaction
-- Network Science
-- System Dynamics Modeling
-- Data Science and Computational Social Science
